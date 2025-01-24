@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Neur0sis]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<h1 align="center">Hi 👋, I'm Neur0sis</h1>
+<h3 align="center">A passionate dev from La Réunion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N3ur0sis&label=Profile%20views&color=0e75b6&style=flat" alt="N3ur0sis" /> </p>
 
